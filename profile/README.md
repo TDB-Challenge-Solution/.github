@@ -11,6 +11,13 @@
   <h1>🦷 Challenge Turma do Bem</h1>
   <p><b>Plataforma Tecnológica de Inclusão Social através da Saúde Bucal</b></p>
 
+  <!-- BOTÃO DE REDIRECIONAMENTO PARA O REPOSITÓRIO PRINCIPAL -->
+  <p align="center">
+    <a href="https://github.com/TDB-Challenge-Solution/challenge-turmadobem-1tds">
+      <img src="https://img.shields.io/badge/🚀_Acessar_Repositório_do_Projeto-challenge--turmadobem--1tds-0052CC?style=for-the-badge&logo=github" alt="Acessar Repositório do Projeto" />
+    </a>
+  </p>
+
   <p>
     <a href="#-integrantes">Integrantes</a> •
     <a href="#-estrutura-das-disciplinas">Disciplinas</a> •
@@ -36,24 +43,24 @@
 
 <table>
   <tr>
-<td align="center" width="200px">
-  <img src="https://github.com/redagnolo.png" width="80px" style="border-radius: 50%;" alt="Foto Renato Dagnolo"/><br/>
-  <b>Renato Dagnolo Rodrigues</b><br/>
-  <sub>RM: 574993</sub><br/>
-  <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
-</td>
-<td align="center" width="200px">
-  <img src="https://github.com/sofiaolivagoliva.png" width="80px" style="border-radius: 50%;" alt="Foto Sofia Oliveira Gonçalves"/><br/>
-  <b>Sofia Oliveira Gonçalves</b><br/>
-  <sub>RM: 576524</sub><br/>
-  <a href="https://github.com/sofiaolivagoliva"><code>@sofiaolivagoliva</code></a>
-</td>
-<td align="center" width="200px">
-  <img src="https://github.com/adryanhernandez.png" width="80px" style="border-radius: 50%;" alt="Foto Adryan Hernandez de Souza"/><br/>
-  <b>Adryan Hernandez de Souza</b><br/>
-  <sub>RM: 576389</sub><br/>
-  <a href="https://github.com/adryanhernandez"><code>@adryanhernandez</code></a>
-</td>
+    <td align="center" width="200px">
+      <img src="https://github.com/redagnolo.png" width="80px" style="border-radius: 50%;" alt="Foto Renato Dagnolo"/><br/>
+      <b>Renato Dagnolo Rodrigues</b><br/>
+      <sub>RM: 574993</sub><br/>
+      <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://github.com/sofiaolivagoliva.png" width="80px" style="border-radius: 50%;" alt="Foto Sofia Oliveira Gonçalves"/><br/>
+      <b>Sofia Oliveira Gonçalves</b><br/>
+      <sub>RM: 576524</sub><br/>
+      <a href="https://github.com/sofiaolivagoliva"><code>@sofiaolivagoliva</code></a>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://github.com/adryanhernandez.png" width="80px" style="border-radius: 50%;" alt="Foto Adryan Hernandez de Souza"/><br/>
+      <b>Adryan Hernandez de Souza</b><br/>
+      <sub>RM: 576389</sub><br/>
+      <a href="https://github.com/adryanhernandez"><code>@adryanhernandez</code></a>
+    </td>
     <td align="center" width="200px">
       <img src="https://github.com/identicons/user4.png" width="80px;" alt="Foto Aluno 4"/><br/>
       <b>Nome do Aluno 4</b><br/>
