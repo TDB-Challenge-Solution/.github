@@ -41,37 +41,37 @@
 <!-- INTEGRANTES DO GRUPO -->
 <h2 id="-integrantes">👥 Integrantes do Grupo</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="200px">
+    <td align="center" valign="top" width="200px">
       <img src="https://github.com/redagnolo.png" width="80px" style="border-radius: 50%;" alt="Foto Renato Dagnolo"/><br/>
       <b>Renato Dagnolo Rodrigues</b><br/>
       <sub>RM: 574993</sub><br/>
       <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
     </td>
-    <td align="center" width="200px">
+    <td align="center" valign="top" width="200px">
       <img src="https://github.com/sofiaolivagoliva.png" width="80px" style="border-radius: 50%;" alt="Foto Sofia Oliveira Gonçalves"/><br/>
       <b>Sofia Oliveira Gonçalves</b><br/>
       <sub>RM: 576524</sub><br/>
       <a href="https://github.com/sofiaolivagoliva"><code>@sofiaolivagoliva</code></a>
     </td>
-    <td align="center" width="200px">
+    <td align="center" valign="top" width="200px">
       <img src="https://github.com/adryanhernandez.png" width="80px" style="border-radius: 50%;" alt="Foto Adryan Hernandez de Souza"/><br/>
       <b>Adryan Hernandez de Souza</b><br/>
       <sub>RM: 576389</sub><br/>
       <a href="https://github.com/adryanhernandez"><code>@adryanhernandez</code></a>
     </td>
-    <td align="center" width="200px">
-      <img src="https://github.com/identicons/user4.png" width="80px;" alt="Foto Aluno 4"/><br/>
-      <b>Nome do Aluno 4</b><br/>
-      <sub>RM: 123456</sub><br/>
-      <a href="https://github.com/username"><code>@github</code></a>
+    <td align="center" valign="top" width="200px">
+      <img src="https://github.com/marinasantanaq.png" width="80px" style="border-radius: 50%;" alt="Foto Marina Santana Queiroz"/><br/>
+      <b>Marina Santana Queiroz</b><br/>
+      <sub>RM: 574491</sub><br/>
+      <a href="https://github.com/marinasantanaq"><code>@marinasantanaq</code></a>
     </td>
-    <td align="center" width="200px">
-      <img src="https://github.com/identicons/user5.png" width="80px;" alt="Foto Aluno 5"/><br/>
-      <b>Nome do Aluno 5</b><br/>
-      <sub>RM: 123456</sub><br/>
-      <a href="https://github.com/username"><code>@github</code></a>
+    <td align="center" valign="top" width="200px">
+      <img src="https://github.com/Tapia2005.png" width="80px" style="border-radius: 50%;" alt="Foto Brayhan Tapia Ribeiro"/><br/>
+      <b>Brayhan Tapia Ribeiro</b><br/>
+      <sub>RM: 575045</sub><br/>
+      <a href="https://github.com/Tapia2005"><code>@Tapia2005</code></a>
     </td>
   </tr>
 </table>
