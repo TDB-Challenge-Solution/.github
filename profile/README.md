@@ -43,10 +43,10 @@
       <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
     </td>
     <td align="center" width="200px">
-      <img src="https://github.com/identicons/user2.png" width="80px;" alt="Foto Aluno 2"/><br/>
-      <b>Nome do Aluno 2</b><br/>
-      <sub>RM: 123456</sub><br/>
-      <a href="https://github.com/username"><code>@github</code></a>
+      <img src="https://github.com/sofiaolivagoliva.png" width="80px;" alt="Foto Sofia Oliveira Gonçalves"/><br/>
+      <b>Sofia Oliveira Gonçalves</b><br/>
+      <sub>RM: 576524</sub><br/>
+      <a href="https://github.com/sofiaolivagoliva"><code>@github</code></a>
     </td>
     <td align="center" width="200px">
       <img src="https://github.com/identicons/user3.png" width="80px;" alt="Foto Aluno 3"/><br/>
