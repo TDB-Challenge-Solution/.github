@@ -38,9 +38,9 @@
   <tr>
     <td align="center" width="200px">
       <img src="https://github.com/redagnolo.png" width="80px;" style="border-radius: 50%;" alt="Foto Renato Dagnolo"/><br/>
-  <b>Renato Dagnolo Rodrigues</b><br/>
-  <sub>RM: 574993</sub><br/>
-  <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
+      <b>Renato Dagnolo Rodrigues</b><br/>
+      <sub>RM: 574993</sub><br/>
+      <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
     </td>
     <td align="center" width="200px">
       <img src="https://github.com/identicons/user2.png" width="80px;" alt="Foto Aluno 2"/><br/>
@@ -89,37 +89,37 @@
     <tr>
       <td><b>Software Engineering & Business Model</b></td>
       <td>Descrição da solução, Pitch, Backlog e planejamento de Sprints</td>
-      <td><a href="./docs"><code>/docs</code></a></td>
+      <td><a href="https://github.com/TDB-Challenge-Solution/challenge-turmadobem-1tds/tree/main/docs"><code>/docs</code></a></td>
       <td><img src="https://img.shields.io/badge/PDF-Docs-red?style=flat-square"/></td>
     </tr>
     <tr>
       <td><b>Front-End Design Engineering</b></td>
       <td>Plataforma Web (Interface responsiva)</td>
-      <td><a href="./frontend"><code>/frontend</code></a></td>
+      <td><a href="https://github.com/TDB-Challenge-Solution/challenge-turmadobem-1tds/tree/main/frontend"><code>/frontend</code></a></td>
       <td><img src="https://img.shields.io/badge/HTML5-CSS3-orange?style=flat-square"/></td>
     </tr>
     <tr>
       <td><b>Domain Driven Design Using Java</b></td>
       <td>Arquitetura de Software, Modelagem UML e Backend</td>
-      <td><a href="./backend-java"><code>/backend-java</code></a></td>
+      <td><a href="https://github.com/TDB-Challenge-Solution/challenge-turmadobem-1tds/tree/main/backend-java"><code>/backend-java</code></a></td>
       <td><img src="https://img.shields.io/badge/Java-17-blue?style=flat-square"/></td>
     </tr>
     <tr>
       <td><b>Computational Thinking Using Python</b></td>
       <td>Lógica de Negócios, Validações e CLI</td>
-      <td><a href="./python-analytics"><code>/python-analytics</code></a></td>
+      <td><a href="https://github.com/TDB-Challenge-Solution/challenge-turmadobem-1tds/tree/main/python-analytics"><code>/python-analytics</code></a></td>
       <td><img src="https://img.shields.io/badge/Python-3.x-yellow?style=flat-square"/></td>
     </tr>
     <tr>
       <td><b>Building Relational Database</b></td>
       <td>Modelagem Conceitual, Lógica (DER/MER) e Scripts SQL</td>
-      <td><a href="./database"><code>/database</code></a></td>
+      <td><a href="https://github.com/TDB-Challenge-Solution/challenge-turmadobem-1tds/tree/main/database"><code>/database</code></a></td>
       <td><img src="https://img.shields.io/badge/Oracle-SQL-red?style=flat-square"/></td>
     </tr>
     <tr>
       <td><b>Artificial Intelligence & Chatbot</b></td>
       <td>Intenções, Nós de Diálogo e Watsonx Assistant</td>
-      <td><a href="./ai-chatbot"><code>/ai-chatbot</code></a></td>
+      <td><a href="https://github.com/TDB-Challenge-Solution/challenge-turmadobem-1tds/tree/main/ai-chatbot"><code>/ai-chatbot</code></a></td>
       <td><img src="https://img.shields.io/badge/IBM-Watsonx-blueviolet?style=flat-square"/></td>
     </tr>
   </tbody>
