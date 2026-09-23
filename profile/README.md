@@ -49,30 +49,6 @@
       <sub>RM: 574993</sub><br/>
       <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
     </td>
-    <td align="center" valign="top" width="200px">
-      <img src="https://github.com/sofiaolivagoliva.png" width="80px" style="border-radius: 50%;" alt="Foto Sofia Oliveira Gonçalves"/><br/>
-      <b>Sofia Oliveira Gonçalves</b><br/>
-      <sub>RM: 576524</sub><br/>
-      <a href="https://github.com/sofiaolivagoliva"><code>@sofiaolivagoliva</code></a>
-    </td>
-    <td align="center" valign="top" width="200px">
-      <img src="https://github.com/adryanhernandez.png" width="80px" style="border-radius: 50%;" alt="Foto Adryan Hernandez de Souza"/><br/>
-      <b>Adryan Hernandez de Souza</b><br/>
-      <sub>RM: 576389</sub><br/>
-      <a href="https://github.com/adryanhernandez"><code>@adryanhernandez</code></a>
-    </td>
-    <td align="center" valign="top" width="200px">
-      <img src="https://github.com/marinasantanaq.png" width="80px" style="border-radius: 50%;" alt="Foto Marina Santana Queiroz"/><br/>
-      <b>Marina Santana Queiroz</b><br/>
-      <sub>RM: 574491</sub><br/>
-      <a href="https://github.com/marinasantanaq"><code>@marinasantanaq</code></a>
-    </td>
-    <td align="center" valign="top" width="200px">
-      <img src="https://github.com/Tapia2005.png" width="80px" style="border-radius: 50%;" alt="Foto Brayhan Tapia Ribeiro"/><br/>
-      <b>Brayhan Tapia Ribeiro</b><br/>
-      <sub>RM: 575045</sub><br/>
-      <a href="https://github.com/Tapia2005"><code>@Tapia2005</code></a>
-    </td>
   </tr>
 </table>
 
