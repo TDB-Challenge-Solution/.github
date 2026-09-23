@@ -49,6 +49,12 @@
       <sub>RM: 574993</sub><br/>
       <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
     </td>
+     <td align="center" valign="top" width="200px">
+      <img src="https://github.com/Luczin10.png" width="80px" style="border-radius: 50%;" alt="Foto Lucas Gabriel"/><br/>
+      <b>Lucas Gabriel Scomparin</b><br/>
+      <sub>RM: 574993</sub><br/>
+      <a href="https://github.com/Luczin10"><code>@Luczin10</code></a>
+    </td>
   </tr>
 </table>
 
