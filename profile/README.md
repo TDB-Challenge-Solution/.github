@@ -41,19 +41,37 @@
 <!-- INTEGRANTES DO GRUPO -->
 <h2 id="-integrantes">👥 Integrantes do Grupo</h2>
 
-<table align="center">
+<table>
   <tr>
     <td align="center" valign="top" width="200px">
-      <img src="https://github.com/redagnolo.png" width="80px" style="border-radius: 50%;" alt="Foto Renato Dagnolo"/><br/>
-      <b>Renato Dagnolo Rodrigues</b><br/>
+      <img src="https://github.com/redagnolo.png" width="80px" height="80px" style="border-radius: 50%; object-fit: cover;" alt="Foto Renato Dagnolo"/><br/>
+      <b>Renato Dagnolo<br/>Rodrigues</b><br/>
       <sub>RM: 574993</sub><br/>
-      <a href="https://github.com/redagnolo"><code>@redagnolo</code></a>
+      <a href="https://github.com/redagnolo" style="white-space: nowrap;"><code>@redagnolo</code></a>
     </td>
-     <td align="center" valign="top" width="200px">
-      <img src="https://github.com/Luczin10.png" width="80px" style="border-radius: 50%;" alt="Foto Lucas Gabriel"/><br/>
-      <b>Lucas Gabriel Scomparin</b><br/>
+    <td align="center" valign="top" width="200px">
+      <img src="https://github.com/Luczin10.png" width="80px" height="80px" style="border-radius: 50%; object-fit: cover;" alt="Foto Lucas Gabriel"/><br/>
+      <b>Lucas Gabriel<br/>Scomparin</b><br/>
       <sub>RM: 575112</sub><br/>
-      <a href="https://github.com/Luczin10"><code>@Luczin10</code></a>
+      <a href="https://github.com/Luczin10" style="white-space: nowrap;"><code>@Luczin10</code></a>
+    </td>
+    <td align="center" valign="top" width="200px">
+      <img src="https://github.com/ryanjeimysson.png" width="80px" height="80px" style="border-radius: 50%; object-fit: cover;" alt="Foto Ryan Jeimysson"/><br/>
+      <b>Ryan<br/>Jeimysson</b><br/>
+      <sub>RM: 575552</sub><br/>
+      <a href="https://github.com/ryanjeimysson" style="white-space: nowrap;"><code>@ryanjeimysson</code></a>
+    </td>
+    <td align="center" valign="top" width="200px">
+      <img src="https://github.com/LauraLFerres.png" width="80px" height="80px" style="border-radius: 50%; object-fit: cover;" alt="Foto Laura Ferres"/><br/>
+      <b>Laura<br/>Ferres</b><br/>
+      <sub>RM: 576007</sub><br/>
+      <a href="https://github.com/LauraLFerres" style="white-space: nowrap;"><code>@LauraLFerres</code></a>
+    </td>
+    <td align="center" valign="top" width="200px">
+      <img src="https://github.com/amadordiego168-source.png" width="80px" height="80px" style="border-radius: 50%; object-fit: cover;" alt="Foto Diego Amador"/><br/>
+      <b>Diego<br/>Amador</b><br/>
+      <sub>RM: 574630</sub><br/>
+      <a href="https://github.com/amadordiego168-source" style="white-space: nowrap;"><code>@amadordiego168-source</code></a>
     </td>
   </tr>
 </table>
